@@ -86,3 +86,6 @@ local.properties
 
 /Git_ignore_test/src/main/java/nocommit_some/NoCommit_7_untrack.java
 / Git_ignore_test/src/main/java/nocommit_some/NoCommit_7_untrack.java
+
+/Git_ignore_test/src/main/java/nocommit_some/NoCommit_7_untrack2.java
+/ Git_ignore_test/src/main/java/nocommit_some/NoCommit_7_untrack2.java
