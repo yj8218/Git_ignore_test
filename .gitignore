@@ -69,3 +69,9 @@ local.properties
 .sts4-cache/
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse
+
+
+ ##### commit 제외파일 ##### 
+/Git_ignore_test/src/main/java/nocommit_all/
+/Git_ignore_test/src/main/java/nocommit_some/NoCommit_3.java 
+ 
